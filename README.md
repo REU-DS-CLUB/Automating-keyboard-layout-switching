@@ -1,20 +1,20 @@
 # Automating-keyboard-layout-switching
-Цель: создать модель для автоматического переключения раскладки клавиатуры (то есть если мы пишем “ghbdtn”, она превращает это в “привет”)
-#                ![avatar](https://sun1-13.userapi.com/s/v1/ig2/1r0-byxqFwdntyCx2i6Cxc7zn4yTw9oRDkcLqX789qs6OY9_IBqz2P08wtzp6K35BK9K_cJ-MtI9TyCBczcNCIWF.jpg?size=50x50&amp;quality=96&amp;crop=176,90,541,541&amp;ava=1)                                                    Телеграм Бот Алертер                             
 
-Название            | Содержание
-----------------    |----------------------
-БИБИКА.ipynb             | главный скрипт
-auto_ru_res_test.csv                | данные о машинах
+#                ![avatar](https://sun1-13.userapi.com/s/v1/ig2/1r0-byxqFwdntyCx2i6Cxc7zn4yTw9oRDkcLqX789qs6OY9_IBqz2P08wtzp6K35BK9K_cJ-MtI9TyCBczcNCIWF.jpg?size=50x50&amp;quality=96&amp;crop=176,90,541,541&amp;ava=1)                                                    Автоматизация переключения раскладки клавиатуры                             
+
+Название                                   | Содержание
+-------------------------------------------|----------------------
+Automating-keyboard-layout-switching.ipynb | главный скрипт
+??.csv                                     | какой-то файл, напишем позже
 
 ##                                                                    Описание
 
-Цель проекта - прогнозирование цены на автомобили с помощью методов машинного обучения.
+Цель: создать модель для автоматического переключения раскладки клавиатуры (то есть если мы пишем “ghbdtn”, она превращает это в “привет”)
 
 
 ##                                                                    Документация
 
-  [Информация об автомобилях была взята от сюда](https://www.avito.ru)
+?? наверное, у нас нет
   
   
 ##                                                                    Дополнительно
@@ -31,7 +31,7 @@ auto_ru_res_test.csv                | данные о машинах
 ###                                                                    Контакты
 
 
-  **Telegram**: @iis_diink, @Boombotts, @vitykos \
-  **VK**: [vk.com/seelova](https://vk.com/iss_diink), [vk.com/boomsbott](https://vk.com/boomsbott), [vk.com/vitykos](https://vk.com/vitykos) 
+  **Telegram**: @polyanka003, @nizovtsevanastya, @vitykos \
+  **VK**: [vk.com/pelagech](https://vk.com/pelagech), [vk.com/tusik_mrr](https://vk.com/tusik_mrr), [vk.com/sn.mardi](https://vk.com/sn.mardi), [vk.com/avksentiy_ivanov](https://vk.com/avksentiy_ivanov)
   
   
