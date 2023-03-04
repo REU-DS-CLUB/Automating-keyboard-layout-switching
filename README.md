@@ -23,7 +23,8 @@ Automating-keyboard-layout-switching.ipynb | главный скрипт
 ###                                                                    Контакты
 
 
-  **Telegram**: @polyanka003, @nizovtsevanastya, @snmardi, @gr1510 
-  **VK**: [vk.com/pelagech](https://vk.com/pelagech), [vk.com/tusik_mrr](https://vk.com/tusik_mrr), [vk.com/sn.mardi](https://vk.com/sn.mardi), [vk.com/avksentiy_ivanov](https://vk.com/avksentiy_ivanov)
+**Telegram**: @polyanka003, @nizovtsevanastya, @snmardi, @gr1510 
+
+**VK**: [vk.com/pelagech](https://vk.com/pelagech), [vk.com/tusik_mrr](https://vk.com/tusik_mrr), [vk.com/sn.mardi](https://vk.com/sn.mardi), [vk.com/avksentiy_ivanov](https://vk.com/avksentiy_ivanov)
   
   
