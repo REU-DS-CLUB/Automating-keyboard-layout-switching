@@ -14,21 +14,19 @@ Automating-keyboard-layout-switching.ipynb | главный скрипт
   
 ##                                                                    Дополнительно
 
-## Зачем это нужно? (Пелагея)
-
+Зачем это нужно? (Пелагея)
 в чем главная идея проекта
 
 ##                                                                    Документация
 Документация исользованных библиотек:
 
-Pandas https://pandas.pydata.org/docs/
-Matplotlib https://matplotlib.org/
-Numpy https://numpy.org/doc/
+Pandas https://pandas.pydata.org/docs/ \
+Matplotlib https://matplotlib.org/ \
+Numpy https://numpy.org/doc/ \
 Sklearn https://scikit-learn.org/stable/user_guide.html
   
-###                                                                    Контакты
+###                                                       :paw_prints: Контакты
 
-:paw_prints:
 **Telegram**: @polyanka003, @nizovtsevanastya, @snmardi, @gr1510 
 
 **VK**: [vk.com/pelagech](https://vk.com/pelagech), [vk.com/tusik_mrr](https://vk.com/tusik_mrr), [vk.com/sn.mardi](https://vk.com/sn.mardi), [vk.com/avksentiy_ivanov](https://vk.com/avksentiy_ivanov)
