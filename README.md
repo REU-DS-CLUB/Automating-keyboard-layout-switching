@@ -3,7 +3,7 @@
 Название                                   | Содержание
 -------------------------------------------|----------------------
 Automating-keyboard-layout-switching.ipynb | главный скрипт
-??.csv                                     | какой-то файл, напишем позже
+файлы добавим позже                        | напишем позже
 
 ##                                                                    Описание
 
@@ -13,12 +13,22 @@ Automating-keyboard-layout-switching.ipynb | главный скрипт
 Стек технологий: python (), pickle
   
 ##                                                                    Дополнительно
-  
-  
+
+## Зачем это нужно? (Пелагея)
+
+в чем главная идея проекта
+
+##                                                                    Документация
+Документация исользованных библиотек:
+
+Pandas https://pandas.pydata.org/docs/
+Matplotlib https://matplotlib.org/
+Numpy https://numpy.org/doc/
+Sklearn https://scikit-learn.org/stable/user_guide.html
   
 ###                                                                    Контакты
 
-
+:paw_prints:
 **Telegram**: @polyanka003, @nizovtsevanastya, @snmardi, @gr1510 
 
 **VK**: [vk.com/pelagech](https://vk.com/pelagech), [vk.com/tusik_mrr](https://vk.com/tusik_mrr), [vk.com/sn.mardi](https://vk.com/sn.mardi), [vk.com/avksentiy_ivanov](https://vk.com/avksentiy_ivanov)
