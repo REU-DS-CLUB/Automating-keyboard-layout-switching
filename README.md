@@ -8,8 +8,7 @@ Automating-keyboard-layout-switching.ipynb | главный скрипт
 ##                                                                    Описание
 
 Цель: создать модель для автоматического переключения раскладки клавиатуры (то есть если мы пишем “ghbdtn”, она превращает это в “привет”)
-Зачем это нужно?
-
+Зачем это нужно? \
 Стек технологий: python (), pickle
   
 ##                                                                    Дополнительно
@@ -24,11 +23,11 @@ Pandas https://pandas.pydata.org/docs/ \
 Matplotlib https://matplotlib.org/ \
 Numpy https://numpy.org/doc/ \
 Sklearn https://scikit-learn.org/stable/user_guide.html
-  
-###                                                       :paw_prints: Контакты
 
-**Telegram**: @polyanka003, @nizovtsevanastya, @snmardi, @gr1510 
 
+## :paw_prints: Контакты
+
+**Telegram**: @polyanka003, @nizovtsevanastya, @snmardi, @gr1510 \
 **VK**: [vk.com/pelagech](https://vk.com/pelagech), [vk.com/tusik_mrr](https://vk.com/tusik_mrr), [vk.com/sn.mardi](https://vk.com/sn.mardi), [vk.com/avksentiy_ivanov](https://vk.com/avksentiy_ivanov)
   
   
