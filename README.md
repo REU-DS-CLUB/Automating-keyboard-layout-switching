@@ -13,7 +13,7 @@ russian-words.txt                          | текст на русском яз
 Стек технологий: matplotlib, pandas, numpy, pickle, sklearn, catboost.
 ##                                                                    Инструкция
 
-Для начала работы нужно запустить файл .ipynb в Jupyter Notebook или Google Collab при этом скачав файлы english-words.txt и russian-words.txt
+Для начала работы нужно запустить файл .ipynb в Jupyter Notebook или Google Collab, при этом скачав файлы english-words.txt и russian-words.txt
 
 ##                                                                    Дополнительно
 
