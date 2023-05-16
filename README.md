@@ -27,8 +27,8 @@ russian-words.txt                          | текст на русском яз
 Pandas https://pandas.pydata.org/docs/ \
 Matplotlib https://matplotlib.org/ \
 Numpy https://numpy.org/doc/ \
-Sklearn https://scikit-learn.org/stable/user_guide.html
-
+Sklearn https://scikit-learn.org/stable/user_guide.html \
+Catboost https://catboost.ai/en/docs/
 
 ## :paw_prints: Контакты
 
